@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/cbbroncano/.android/build-cache/1d6fae98e9c0a10bc83d85b8c6dac723ad85aa68/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/Users/cbbroncano/Github/SampleDashboard/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_57d9ea18c76f3b2f2c220ef5638306908b4cd026/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/cbbroncano/.android/build-cache/b41e3e40992ac0fffae5350c4add09258ffc7259/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/Users/cbbroncano/Github/SampleDashboard/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_768586d7c3fbe23f5d969c71cb8b2b9f6be9db37/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/cbbroncano/.android/build-cache/026545313c2888962a688718969d47eb69ea7dae/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/Users/cbbroncano/Github/SampleDashboard/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c76e1af7393e1360715acd3ea052f6bd1332376b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/cbbroncano/Github/SampleDashboard/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="03c31cfb66022880da6a98fa558671b06c697a3a">
+        <dex dex="/Users/cbbroncano/Github/SampleDashboard/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_3ff380fc4b47eca64f5c0068531499665a63d57f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/cbbroncano/.android/build-cache/e72da603e957adb0dfbb3dee812c10a2989867bb/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/Users/cbbroncano/Github/SampleDashboard/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1e65a7e0cbf5ddb8c8db2994a44feebd965f726d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/cbbroncano/.android/build-cache/cd5150c7d9c0cdadc8565acd2d06e3864fea8ead/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/Users/cbbroncano/Github/SampleDashboard/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_23b2694e6c013cf474a49a5d9daa788e9691fd74/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/cbbroncano/.android/build-cache/460dfb5b934cf207606ab1c571a1b1257f216b78/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/cbbroncano/Github/SampleDashboard/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_31d1ba9485e24c499de520dc0ad550cab2b59a44/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/cbbroncano/.android/build-cache/ece3e9f1c1f4123ddaa9cd4df7985568b4695995/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/Users/cbbroncano/Github/SampleDashboard/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_08d3634a57183219f43e48a4f2aadb9f3c20a6d2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/cbbroncano/Github/SampleDashboard/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/cbbroncano/Github/SampleDashboard/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_c7d2c8dd0b3175343763988fcbc5a3cb8eb7ad5d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/cbbroncano/.android/build-cache/2901af1d0300a81e96d1a4de447b10dcd757919b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/Users/cbbroncano/Github/SampleDashboard/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_90bc736e40c0cc3bedce35da1e462741a5104b74/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/cbbroncano/.android/build-cache/959bc19f0b3d1aa6994183bff25e231c6158d090/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/Users/cbbroncano/Github/SampleDashboard/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ab61c85653a19f4e500e40580ada83c90b413056/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/cbbroncano/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/Users/cbbroncano/Github/SampleDashboard/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.3.1_49d8a1d46a21bf62f2d08ad715502a0fb3408a15/classes.dex" />
+    </item>
+
+</items>

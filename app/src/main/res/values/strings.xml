@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">SampleDashboard</string>
+
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="welcome">Hello, %1$s!</string>
+
+    <string name="question">What is on your mind?</string>
+
+    <string name="add">Add</string>
+    <string name="edit">Edit</string>
+    <string name="delete">Delete</string>
+    <string name="cancel">Cancel</string>
+</resources>
